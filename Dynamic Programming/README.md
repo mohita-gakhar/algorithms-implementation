@@ -5,6 +5,7 @@ It is quite similar to divide and conquer with the difference of overlapping sub
 The problem must have two characteristics in order to be solved by DP
 - Overlapping Sub Problems
 - Optimal Sub Structure (when a problem can have a recursive definition)
+    - A problem is said to have an optimal sub structure property if an optimal solution of the given problem can be obtained by using the optimal solutions of its sub problems.
 
 DP problem can be solved in two ways
 - Memoization
