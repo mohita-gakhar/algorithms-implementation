@@ -4,7 +4,7 @@
  * 1. All the sides are of equal length.
  * 2. The angles are of 90 degree.
  * 3. Both the diagonals are of same length
- * @author mmohita
+ * @author Mohita
  */
 public class FormSquare {
 	
