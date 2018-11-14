@@ -5,7 +5,7 @@ import java.util.Stack;
  * For each element of an array, print an array
  * which has nearest smaller element of each element
  * in former array
- * @author mmohita
+ * @author Mohita
  *
  */
 public class SmallerElementOnRight {
