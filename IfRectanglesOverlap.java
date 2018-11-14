@@ -1,6 +1,6 @@
 /**
  * Given two rectangles, check if they overlap
- * @author mmohita
+ * @author Mohita
  *
  */
 public class IfRectanglesOverlap {
