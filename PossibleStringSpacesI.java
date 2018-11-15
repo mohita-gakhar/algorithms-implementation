@@ -7,6 +7,9 @@
  */
 public class PossibleStringSpacesI {
 	
+	/**
+	* Time complexity would be O(n*2^n)
+	**/
 	private static void printPattern(String string, char[] buffer,int i,int j, int n){
 		if(i==n){
 			buffer[j]='\0';
